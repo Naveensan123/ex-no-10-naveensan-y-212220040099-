@@ -75,4 +75,5 @@ plt.show()
 # OUTPUT
 
 # RESULT
-Thus the Data Visualization for the given dataset had been executed successfully.
+Thus the Data Visualization![download](https://github.com/Naveensan123/ex-no-10-naveensan-y-212220040099-/assets/95761973/4e79b27d-52df-4a5a-af89-d3b76b0a155a)
+ for the given dataset had been executed successfully.
