@@ -73,7 +73,14 @@ sns.heatmap(df.corr(method='pearson').drop(['Id'], axis=1).drop(['Id'], axis=0),
 plt.show()
 
 # OUTPUT
+![download](https://github.com/Naveensan123/ex-no-10-naveensan-y-212220040099-/assets/95761973/fd3be06c-76ce-472f-8065-f1621e9625ea)
+![download](https://github.com/Naveensan123/ex-no-10-naveensan-y-212220040099-/assets/95761973/52998193-900e-4599-a168-d11a95d07354)
+![download](https://github.com/Naveensan123/ex-no-10-naveensan-y-212220040099-/assets/95761973/2f1e5f8e-b577-469f-add7-80610f42156b)
+![download](https://github.com/Naveensan123/ex-no-10-naveensan-y-212220040099-/assets/95761973/bc2f7592-314d-453f-a7ed-fd2c3c86c139)
+![download](https://github.com/Naveensan123/ex-no-10-naveensan-y-212220040099-/assets/95761973/e7ba6536-860d-4f29-9d3d-a601c558ca7a)
+![download](https://github.com/Naveensan123/ex-no-10-naveensan-y-212220040099-/assets/95761973/c15e3f32-7719-47a2-968c-a73d8a3841b7)
+
+
 
 # RESULT
-Thus the Data Visualization![download](https://github.com/Naveensan123/ex-no-10-naveensan-y-212220040099-/assets/95761973/4e79b27d-52df-4a5a-af89-d3b76b0a155a)
- for the given dataset had been executed successfully.
+Thus the Data Visualization for the given dataset had been executed successfully.
